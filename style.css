@@ -9,7 +9,7 @@ body {
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
-h1, h2, h3 { text-align: center;}
+h1, h2, h3, footer { text-align: center;}
 nav { text-align: center; 
      word-spacing: 15px;}
 
